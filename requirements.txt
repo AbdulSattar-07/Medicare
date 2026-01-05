@@ -5,6 +5,7 @@ joblib>=1.1
 
 # Google OAuth Authentication
 django-allauth>=0.57.0
+requests>=2.28.0
 
 # Environment variables
 python-dotenv>=1.0.0
