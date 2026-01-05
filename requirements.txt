@@ -1,0 +1,16 @@
+Django>=4.1
+Pillow>=9.0
+numpy>=1.21
+joblib>=1.1
+
+# Google OAuth Authentication
+django-allauth>=0.57.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Optional ML framework dependencies (install as needed)
+# tensorflow>=2.10  # For Keras models (.h5)
+# onnxruntime>=1.12  # For ONNX models (.onnx)
+# torch>=1.12  # For PyTorch models (.pt)
+# scikit-learn>=1.0  # For sklearn models (.pkl, .joblib)
